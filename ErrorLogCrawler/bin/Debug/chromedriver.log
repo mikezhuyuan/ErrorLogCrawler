@@ -1,0 +1,134 @@
+[-0.000][INFO]:     ChromeDriver 22.0.1203.0 C:\Users\Mike.Zhu\Desktop\TestSelenium\TestSelenium\bin\Debug\chromedriver.exe
+[1.734][FINE]:      Initializing session with capabilities {
+   "browserName": "chrome",
+   "chrome.switches": [  ],
+   "chromeOptions": {
+      "args": [  ],
+      "binary": "",
+      "extensions": [  ]
+   },
+   "javascriptEnabled": true,
+   "platform": "WINDOWS",
+   "version": ""
+}
+
+[1.734][INFO]:      Launching chrome: "C:\Users\Mike.Zhu\AppData\Local\Google\Chrome\Application\chrome.exe" --disable-hang-monitor --disable-prompt-on-repost --dom-automation --full-memory-crash-report --no-default-browser-check --no-first-run --ignore-certificate-errors --disable-popup-blocking --homepage=about:blank
+[3.047][INFO]:      Connected to Chrome successfully. Version: 21.0.1180.60
+[3.058][FINE]:      Command received (/session/2a8e2a1f6ef170e6b723ebe35bd12b35)
+[3.058][FINE]:      Command finished (/session/2a8e2a1f6ef170e6b723ebe35bd12b35) with response {
+   "sessionId": "2a8e2a1f6ef170e6b723ebe35bd12b35",
+   "status": 0,
+   "value": {
+      "acceptSslCerts": false,
+      "applicationCacheEnabled": false,
+      "browserConnectionEnabled": false,
+      "browserName": "chrome",
+      "chrome.chromedriverVersion": "22.0.1203.0",
+      "chrome.nativeEvents": false,
+      "cssSelectorsEnabled": true,
+      "databaseEnabled": false,
+      "handlesAlerts": true,
+      "javascriptEnabled": true,
+      "locationContextEnabled": false,
+      "nativeEvents": true,
+      "platform": "windows",
+      "rotatable": false,
+      "takesScreenshot": true,
+      "version": "21.0.1180.60",
+      "webStorageEnabled": true
+   }
+}
+
+[3.477][FINE]:      Command received (/session/2a8e2a1f6ef170e6b723ebe35bd12b35/url) with params {
+   "url": "http://qadeepblue2.englishtown.com/errorlog/default.aspx?env=Live"
+}
+
+[3.477][FINER]:     Waiting for all views to stop loading...
+[3.477][FINER]:     Done waiting for all views to stop loading
+[9.161][FINER]:     Waiting for all views to stop loading...
+[9.173][FINER]:     Done waiting for all views to stop loading
+[9.173][FINE]:      Command finished (/session/2a8e2a1f6ef170e6b723ebe35bd12b35/url) with response {
+   "sessionId": "2a8e2a1f6ef170e6b723ebe35bd12b35",
+   "status": 0,
+   "value": {
+
+   }
+}
+
+[9.208][FINE]:      Command received (/session/2a8e2a1f6ef170e6b723ebe35bd12b35/element) with params {
+   "using": "xpath",
+   "value": "//option[@value='/elab']"
+}
+
+[9.208][FINER]:     Waiting for all views to stop loading...
+[9.208][FINER]:     Done waiting for all views to stop loading
+[9.238][FINER]:     Waiting for all views to stop loading...
+[9.239][FINER]:     Done waiting for all views to stop loading
+[9.239][FINE]:      Command finished (/session/2a8e2a1f6ef170e6b723ebe35bd12b35/element) with response {
+   "sessionId": "2a8e2a1f6ef170e6b723ebe35bd12b35",
+   "status": 0,
+   "value": {
+      "ELEMENT": ":wdc:1344501433510"
+   }
+}
+
+[9.243][FINE]:      Command received (/session/2a8e2a1f6ef170e6b723ebe35bd12b35/element/:wdc:1344501433510/click)
+[9.243][FINER]:     Waiting for all views to stop loading...
+[9.244][FINER]:     Done waiting for all views to stop loading
+[9.333][FINER]:     Waiting for all views to stop loading...
+[9.333][FINER]:     Done waiting for all views to stop loading
+[9.333][FINE]:      Command finished (/session/2a8e2a1f6ef170e6b723ebe35bd12b35/element/:wdc:1344501433510/click) with response {
+   "sessionId": "2a8e2a1f6ef170e6b723ebe35bd12b35",
+   "status": 0,
+   "value": {
+
+   }
+}
+
+[9.336][FINE]:      Command received (/session/2a8e2a1f6ef170e6b723ebe35bd12b35/element/:wdc:1344501433510/submit)
+[9.336][FINER]:     Waiting for all views to stop loading...
+[9.337][FINER]:     Done waiting for all views to stop loading
+[9.396][FINER]:     Waiting for all views to stop loading...
+[12.311][FINER]:    Done waiting for all views to stop loading
+[12.311][FINE]:     Command finished (/session/2a8e2a1f6ef170e6b723ebe35bd12b35/element/:wdc:1344501433510/submit) with response {
+   "sessionId": "2a8e2a1f6ef170e6b723ebe35bd12b35",
+   "status": 0,
+   "value": null
+}
+
+[12.344][FINE]:     Command received (/session/2a8e2a1f6ef170e6b723ebe35bd12b35/element) with params {
+   "using": "id",
+   "value": "dgdResults"
+}
+
+[12.344][FINER]:    Waiting for all views to stop loading...
+[12.345][FINER]:    Done waiting for all views to stop loading
+[12.374][FINER]:    Waiting for all views to stop loading...
+[12.374][FINER]:    Done waiting for all views to stop loading
+[12.374][FINE]:     Command finished (/session/2a8e2a1f6ef170e6b723ebe35bd12b35/element) with response {
+   "sessionId": "2a8e2a1f6ef170e6b723ebe35bd12b35",
+   "status": 0,
+   "value": {
+      "ELEMENT": ":wdc:1344501436646"
+   }
+}
+
+[12.382][FINE]:     Command received (/session/2a8e2a1f6ef170e6b723ebe35bd12b35/execute) with params {
+   "args": [ {
+      "ELEMENT": ":wdc:1344501436646"
+   } ],
+   "script": "return arguments[0].innerHTML;"
+}
+
+[12.382][FINER]:    Waiting for all views to stop loading...
+[12.382][FINER]:    Done waiting for all views to stop loading
+[12.389][FINER]:    Waiting for all views to stop loading...
+[12.390][FINER]:    Done waiting for all views to stop loading
+[12.390][FINE]:     Command finished (/session/2a8e2a1f6ef170e6b723ebe35bd12b35/execute) with response {
+   "sessionId": "2a8e2a1f6ef170e6b723ebe35bd12b35",
+   "status": 0,
+   "value": "\n\t\u003Ctbody\u003E\u003Ctr\u003E\n\t\t\u003Ctd\u003EDetails\u003C/td\u003E\u003Ctd\u003E\u003Ca href=\"javascript:__doPostBack('dgdResults$ctl01$ctl00','')..."
+}
+
+[12.397][FINE]:     Command received (/session/2a8e2a1f6ef170e6b723ebe35bd12b35)
+[12.708][INFO]:     Chrome shutdown

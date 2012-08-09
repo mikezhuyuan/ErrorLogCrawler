@@ -1,0 +1,30 @@
+c:\users\mike.zhu\documents\visual studio 2010\Projects\TestSelenium\TestSelenium\bin\Debug\TestSelenium.exe
+c:\users\mike.zhu\documents\visual studio 2010\Projects\TestSelenium\TestSelenium\bin\Debug\TestSelenium.pdb
+c:\users\mike.zhu\documents\visual studio 2010\Projects\TestSelenium\TestSelenium\bin\Debug\Castle.Core.dll
+c:\users\mike.zhu\documents\visual studio 2010\Projects\TestSelenium\TestSelenium\bin\Debug\Ionic.Zip.dll
+c:\users\mike.zhu\documents\visual studio 2010\Projects\TestSelenium\TestSelenium\bin\Debug\Newtonsoft.Json.dll
+c:\users\mike.zhu\documents\visual studio 2010\Projects\TestSelenium\TestSelenium\bin\Debug\WebDriver.dll
+c:\users\mike.zhu\documents\visual studio 2010\Projects\TestSelenium\TestSelenium\bin\Debug\WebDriver.Support.dll
+c:\users\mike.zhu\documents\visual studio 2010\Projects\TestSelenium\TestSelenium\bin\Debug\Castle.Core.xml
+c:\users\mike.zhu\documents\visual studio 2010\Projects\TestSelenium\TestSelenium\bin\Debug\Ionic.Zip.xml
+c:\users\mike.zhu\documents\visual studio 2010\Projects\TestSelenium\TestSelenium\bin\Debug\Newtonsoft.Json.xml
+c:\users\mike.zhu\documents\visual studio 2010\Projects\TestSelenium\TestSelenium\bin\Debug\WebDriver.xml
+c:\users\mike.zhu\documents\visual studio 2010\Projects\TestSelenium\TestSelenium\bin\Debug\WebDriver.Support.xml
+c:\users\mike.zhu\documents\visual studio 2010\Projects\TestSelenium\TestSelenium\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mike.zhu\documents\visual studio 2010\Projects\TestSelenium\TestSelenium\obj\x86\Debug\TestSelenium.exe
+c:\users\mike.zhu\documents\visual studio 2010\Projects\TestSelenium\TestSelenium\obj\x86\Debug\TestSelenium.pdb
+C:\Users\Mike.Zhu\Desktop\TestSelenium\TestSelenium\obj\x86\Debug\TestSelenium.exe
+C:\Users\Mike.Zhu\Desktop\TestSelenium\TestSelenium\obj\x86\Debug\TestSelenium.pdb
+C:\Users\Mike.Zhu\Desktop\TestSelenium\TestSelenium\bin\Debug\TestSelenium.exe
+C:\Users\Mike.Zhu\Desktop\TestSelenium\TestSelenium\bin\Debug\TestSelenium.pdb
+C:\Users\Mike.Zhu\Desktop\TestSelenium\TestSelenium\bin\Debug\Castle.Core.dll
+C:\Users\Mike.Zhu\Desktop\TestSelenium\TestSelenium\bin\Debug\Ionic.Zip.dll
+C:\Users\Mike.Zhu\Desktop\TestSelenium\TestSelenium\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mike.Zhu\Desktop\TestSelenium\TestSelenium\bin\Debug\WebDriver.dll
+C:\Users\Mike.Zhu\Desktop\TestSelenium\TestSelenium\bin\Debug\WebDriver.Support.dll
+C:\Users\Mike.Zhu\Desktop\TestSelenium\TestSelenium\bin\Debug\Castle.Core.xml
+C:\Users\Mike.Zhu\Desktop\TestSelenium\TestSelenium\bin\Debug\Ionic.Zip.xml
+C:\Users\Mike.Zhu\Desktop\TestSelenium\TestSelenium\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mike.Zhu\Desktop\TestSelenium\TestSelenium\bin\Debug\WebDriver.xml
+C:\Users\Mike.Zhu\Desktop\TestSelenium\TestSelenium\bin\Debug\WebDriver.Support.xml
+C:\Users\Mike.Zhu\Desktop\TestSelenium\TestSelenium\obj\x86\Debug\ResolveAssemblyReference.cache

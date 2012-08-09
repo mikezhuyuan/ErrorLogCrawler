@@ -1,0 +1,5 @@
+smtp = 10.17.0.119
+from = errorlog@ef.com
+recipients = mike.zhu@ef.com, Lily.Hull@EF.com, Lucy.LIUH@EF.com, Zane.Yao@EF.com, You.Li@EF.com
+errorLogUrl = http://qadeepblue2.englishtown.com/errorlog/default.aspx?env=Live
+errorDetailUrl = http://qadeepblue2.englishtown.com/errorlog/ErrorLogEventDetail.aspx
